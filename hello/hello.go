@@ -4,6 +4,6 @@ import (
   "fmt"
 )
 
-func add(x, y int) int {
+func Add(x, y int) int {
   return x + y
 }
